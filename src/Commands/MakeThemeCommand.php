@@ -132,7 +132,6 @@ class MakeThemeCommand extends Command
     {
         $options = [
             JsFramework::Vue3,
-            JsFramework::React,
             'Skip',
         ];
 
